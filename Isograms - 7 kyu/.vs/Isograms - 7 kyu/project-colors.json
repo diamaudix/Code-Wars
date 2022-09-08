@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80e0d7f0-896f-47b0-a8b1-f561d447b06f": {
+      "ProjectGuid": "80e0d7f0-896f-47b0-a8b1-f561d447b06f",
+      "DisplayName": "Isograms - 7 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

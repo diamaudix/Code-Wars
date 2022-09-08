@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee159d45-157e-4991-a028-b466d8fe575c": {
+      "ProjectGuid": "ee159d45-157e-4991-a028-b466d8fe575c",
+      "DisplayName": "Insane Colored Triangles - kyu 2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

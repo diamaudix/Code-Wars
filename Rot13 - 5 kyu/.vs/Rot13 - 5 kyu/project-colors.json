@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4d0c0ea-f5a8-4ce3-a303-d7dab2396060": {
+      "ProjectGuid": "d4d0c0ea-f5a8-4ce3-a303-d7dab2396060",
+      "DisplayName": "Rot13 - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

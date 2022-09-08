@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "721bf715-c9b6-43f4-b1df-f454e5c1c1f4": {
+      "ProjectGuid": "721bf715-c9b6-43f4-b1df-f454e5c1c1f4",
+      "DisplayName": "Twice Linear - 4 kyu",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

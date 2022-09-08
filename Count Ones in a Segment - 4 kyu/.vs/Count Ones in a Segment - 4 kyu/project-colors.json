@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "57ce50e1-5389-41e9-b653-c4f0aec4ee7e": {
+      "ProjectGuid": "57ce50e1-5389-41e9-b653-c4f0aec4ee7e",
+      "DisplayName": "Count Ones in a Segment - 4 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

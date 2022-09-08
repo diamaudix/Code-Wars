@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5245c240-c8b4-4b4a-9fd2-3571a147a17e": {
+      "ProjectGuid": "5245c240-c8b4-4b4a-9fd2-3571a147a17e",
+      "DisplayName": "Irreducible Sums",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

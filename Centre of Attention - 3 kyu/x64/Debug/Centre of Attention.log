@@ -1,0 +1,5 @@
+﻿  Center of Attention.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Centre of Attention - 3 kyu\Center of Attention.cpp(123,29): error C2440: 'initializing': cannot convert from 'initializer list' to 'std::vector<unsigned int,std::allocator<unsigned int>> *'
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Centre of Attention - 3 kyu\Center of Attention.cpp(123,29): message : The initializer contains too many elements
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Centre of Attention - 3 kyu\Center of Attention.cpp(130,26): error C2440: 'initializing': cannot convert from 'initializer list' to 'Image'
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Centre of Attention - 3 kyu\Center of Attention.cpp(130,26): message : No constructor could take the source type, or constructor overload resolution was ambiguous

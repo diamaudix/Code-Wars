@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a0f29dd-40fd-4e26-9ff5-d0eb81c75982": {
+      "ProjectGuid": "1a0f29dd-40fd-4e26-9ff5-d0eb81c75982",
+      "DisplayName": "Infix to PostFix - 4 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74a8ef13-b634-4460-9c20-1ae60f512582": {
+      "ProjectGuid": "74a8ef13-b634-4460-9c20-1ae60f512582",
+      "DisplayName": "LZ78 Compression - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5e6a01d-8104-4a54-b15b-e1ca82457a82": {
+      "ProjectGuid": "a5e6a01d-8104-4a54-b15b-e1ca82457a82",
+      "DisplayName": "Simple Pig Latin - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

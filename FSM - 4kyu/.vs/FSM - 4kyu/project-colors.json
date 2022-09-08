@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf0fd140-780a-4b83-8baf-9940314ecb8c": {
+      "ProjectGuid": "cf0fd140-780a-4b83-8baf-9940314ecb8c",
+      "DisplayName": "FSM - 4kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

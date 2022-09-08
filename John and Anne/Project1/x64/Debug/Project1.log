@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: static class std::vector<__int64,class std::allocator<__int64> > __cdecl Johnann::ann(__int64)" (?ann@Johnann@@SA?AV?$vector@_JV?$allocator@_J@std@@@std@@_J@Z) referenced in function main
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\John and Anne\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals

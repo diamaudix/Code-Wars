@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c1fa7ca-5d05-40b9-af28-ac1ce8a3034e": {
+      "ProjectGuid": "9c1fa7ca-5d05-40b9-af28-ac1ce8a3034e",
+      "DisplayName": "Factorial Decomposition - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

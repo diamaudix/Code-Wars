@@ -1,0 +1,3 @@
+﻿  Rail Decode.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Rail Decode - 3 kyu\Rail Decode.cpp(30,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Rail Decode.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Rail Decode - 3 kyu\x64\Debug\Rail Decode.exe

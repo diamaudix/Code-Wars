@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d4650d2-445e-4014-937e-c9a518c1ab85": {
+      "ProjectGuid": "6d4650d2-445e-4014-937e-c9a518c1ab85",
+      "DisplayName": "Dijkstra",
+      "ColorIndex": 0
+    },
+    "04cc2f63-9980-405c-9744-0bfd420fd071": {
+      "ProjectGuid": "04cc2f63-9980-405c-9744-0bfd420fd071",
+      "DisplayName": "MCP",
+      "ColorIndex": 1
+    },
+    "b9f2b94b-0091-4265-bf9d-23374f5e69bc": {
+      "ProjectGuid": "b9f2b94b-0091-4265-bf9d-23374f5e69bc",
+      "DisplayName": "MCP - UDRL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

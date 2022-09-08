@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7c73c26-a16a-4492-ad16-640b713ac93c": {
+      "ProjectGuid": "e7c73c26-a16a-4492-ad16-640b713ac93c",
+      "DisplayName": "Boolfuck Interpreter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

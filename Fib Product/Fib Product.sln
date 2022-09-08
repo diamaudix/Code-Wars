@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fib Product", "Fib Product\Fib Product.vcxproj", "{0858A45B-23F8-432D-A34D-E4685D46EF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Debug|x64.ActiveCfg = Debug|x64
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Debug|x64.Build.0 = Debug|x64
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Debug|x86.ActiveCfg = Debug|Win32
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Debug|x86.Build.0 = Debug|Win32
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Release|x64.ActiveCfg = Release|x64
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Release|x64.Build.0 = Release|x64
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Release|x86.ActiveCfg = Release|Win32
+		{0858A45B-23F8-432D-A34D-E4685D46EF17}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F92ABB-DA8B-4DCF-8D21-8966802CED90}
+	EndGlobalSection
+EndGlobal

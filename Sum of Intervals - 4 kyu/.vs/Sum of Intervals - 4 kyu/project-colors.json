@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "430b25df-3c15-432d-ac00-43748ef3f4a3": {
+      "ProjectGuid": "430b25df-3c15-432d-ac00-43748ef3f4a3",
+      "DisplayName": "Sum of Intervals - 4 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a0a4a1c-b5ac-4923-82e1-a0a0e72c0085": {
+      "ProjectGuid": "1a0a4a1c-b5ac-4923-82e1-a0a0e72c0085",
+      "DisplayName": "Diophantine Equations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proper Fractions with Denominator d", "Proper Fractions with Denominator d.vcxproj", "{302A8975-5507-4181-AFA6-17C759AE88BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Debug|x64.ActiveCfg = Debug|x64
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Debug|x64.Build.0 = Debug|x64
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Debug|x86.Build.0 = Debug|Win32
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Release|x64.ActiveCfg = Release|x64
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Release|x64.Build.0 = Release|x64
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Release|x86.ActiveCfg = Release|Win32
+		{302A8975-5507-4181-AFA6-17C759AE88BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E204366-700E-4876-A427-BCFA4FD5C4D7}
+	EndGlobalSection
+EndGlobal

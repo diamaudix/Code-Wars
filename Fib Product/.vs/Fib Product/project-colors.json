@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0858a45b-23f8-432d-a34d-e4685d46ef17": {
+      "ProjectGuid": "0858a45b-23f8-432d-a34d-e4685d46ef17",
+      "DisplayName": "Fib Product",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "230fc0b3-3b11-4da8-a23e-8a8e142aad74": {
+      "ProjectGuid": "230fc0b3-3b11-4da8-a23e-8a8e142aad74",
+      "DisplayName": "Carmichael Number",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0b30877-0d49-4917-9527-3f1efa79fd31": {
+      "ProjectGuid": "c0b30877-0d49-4917-9527-3f1efa79fd31",
+      "DisplayName": "Bird Mountain",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

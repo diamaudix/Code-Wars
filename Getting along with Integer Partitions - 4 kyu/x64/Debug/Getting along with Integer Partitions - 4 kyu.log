@@ -1,0 +1,19 @@
+﻿  Getting along with Integer Partitions.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Getting along with Integer Partitions - 4 kyu\Getting along with Integer Partitions.cpp(71,72): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\numeric(34,26): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Getting along with Integer Partitions - 4 kyu\Getting along with Integer Partitions.cpp(60): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,int,std::multiplies<__int64>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<__int64>>>,
+              _Fn=std::multiplies<__int64>
+          ]
+  Getting along with Integer Partitions - 4 kyu.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Getting along with Integer Partitions - 4 kyu\x64\Debug\Getting along with Integer Partitions - 4 kyu.exe

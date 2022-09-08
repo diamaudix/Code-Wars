@@ -1,0 +1,3 @@
+﻿  Which are In.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Which are In - 6 kyu\Which are In.cpp(19,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Which are In - 6 kyu.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Which are In - 6 kyu\x64\Debug\Which are In - 6 kyu.exe

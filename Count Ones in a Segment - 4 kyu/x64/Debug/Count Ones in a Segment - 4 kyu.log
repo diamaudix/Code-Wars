@@ -1,0 +1,5 @@
+﻿  Count Ones.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Count Ones in a Segment - 4 kyu\Count Ones.cpp(7,51): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Count Ones in a Segment - 4 kyu\Count Ones.cpp(15,32): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Count Ones in a Segment - 4 kyu\Count Ones.cpp(16,38): warning C4244: 'argument': conversion from '__int64' to 'double', possible loss of data
+  Count Ones in a Segment - 4 kyu.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Count Ones in a Segment - 4 kyu\x64\Debug\Count Ones in a Segment - 4 kyu.exe

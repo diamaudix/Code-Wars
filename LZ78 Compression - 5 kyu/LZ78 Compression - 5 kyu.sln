@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LZ78 Compression - 5 kyu", "LZ78 Compression - 5 kyu.vcxproj", "{74A8EF13-B634-4460-9C20-1AE60F512582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Debug|x64.ActiveCfg = Debug|x64
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Debug|x64.Build.0 = Debug|x64
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Debug|x86.ActiveCfg = Debug|Win32
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Debug|x86.Build.0 = Debug|Win32
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Release|x64.ActiveCfg = Release|x64
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Release|x64.Build.0 = Release|x64
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Release|x86.ActiveCfg = Release|Win32
+		{74A8EF13-B634-4460-9C20-1AE60F512582}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {577DD67C-D23B-42C8-8CB0-BC71C8A6A5EE}
+	EndGlobalSection
+EndGlobal

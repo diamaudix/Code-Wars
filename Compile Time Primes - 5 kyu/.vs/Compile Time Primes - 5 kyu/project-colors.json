@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "649b8f0f-f6c1-4692-8390-9212028a1de5": {
+      "ProjectGuid": "649b8f0f-f6c1-4692-8390-9212028a1de5",
+      "DisplayName": "Compile Time Primes - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

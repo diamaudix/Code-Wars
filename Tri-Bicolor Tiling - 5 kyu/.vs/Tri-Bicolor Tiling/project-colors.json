@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "451a09f8-dc12-4a83-80ba-84ace2184c2d": {
+      "ProjectGuid": "451a09f8-dc12-4a83-80ba-84ace2184c2d",
+      "DisplayName": "Tri-Bicolor Tiling",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

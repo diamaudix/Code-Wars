@@ -1,0 +1,22 @@
+﻿  Diophantine.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=LL
+          ]
+          and
+          [
+              _Ty1=long
+          ]
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Diophantine Equations\Diophantine Equations\Diophantine.cpp(31): message : see reference to function template instantiation 'std::pair<long,long>::pair<LL,LL,0>(std::pair<LL,LL> &&) noexcept' being compiled
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Diophantine Equations\Diophantine Equations\Diophantine.cpp(31): message : see reference to function template instantiation 'std::pair<long,long>::pair<LL,LL,0>(std::pair<LL,LL> &&) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=LL
+          ]
+          and
+          [
+              _Ty2=long
+          ]
+  Diophantine Equations.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Diophantine Equations\x64\Debug\Diophantine Equations.exe

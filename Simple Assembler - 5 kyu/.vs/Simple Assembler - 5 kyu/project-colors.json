@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b9b5e56-7901-4993-9212-2b61fbb3b183": {
+      "ProjectGuid": "0b9b5e56-7901-4993-9212-2b61fbb3b183",
+      "DisplayName": "Simple Assembler - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

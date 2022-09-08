@@ -1,0 +1,3 @@
+﻿  Egyptian Fractions.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Some Egyptian Fractions\Egyptian Fractions.cpp(33,50): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  Some Egyptian Fractions.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Some Egyptian Fractions\x64\Debug\Some Egyptian Fractions.exe

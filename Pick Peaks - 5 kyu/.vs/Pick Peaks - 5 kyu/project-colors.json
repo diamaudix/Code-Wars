@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f05a37d-442e-45cc-ab37-eadc3afe7b52": {
+      "ProjectGuid": "0f05a37d-442e-45cc-ab37-eadc3afe7b52",
+      "DisplayName": "Pick Peaks - 5 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,5 @@
+﻿  PathFinder1.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Path Finder 1 - 4 kyu\PathFinder1.cpp(175,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Path Finder 1 - 4 kyu\PathFinder1.cpp(72): warning C4715: 'Maze::canVisit': not all control paths return a value
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Path Finder 1 - 4 kyu\PathFinder1.cpp(132): warning C4715: 'Maze::canGo': not all control paths return a value
+  Path Finder 1 - 4 kyu.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Path Finder 1 - 4 kyu\x64\Debug\Path Finder 1 - 4 kyu.exe

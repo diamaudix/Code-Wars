@@ -1,0 +1,2 @@
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Best Place at a Concert - 5 kyu\x64\Debug\Best Place at a Concert - 5 kyu.exe
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Best Place at a Concert - 5 kyu - incomplete\x64\Debug\Best Place at a Concert - 5 kyu.exe

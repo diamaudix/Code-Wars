@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "009a0d36-4a4d-4fb1-b807-499d6621d2b0": {
+      "ProjectGuid": "009a0d36-4a4d-4fb1-b807-499d6621d2b0",
+      "DisplayName": "FibSequence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

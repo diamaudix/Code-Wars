@@ -1,0 +1,3 @@
+﻿  Dijkstra.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Dijkstra\Dijkstra\Dijkstra.cpp(38,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Dijkstra.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\Dijkstra\x64\Debug\Dijkstra.exe

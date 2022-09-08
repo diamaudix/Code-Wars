@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a493ff2-e292-4563-8aae-9fad77530441": {
+      "ProjectGuid": "0a493ff2-e292-4563-8aae-9fad77530441",
+      "DisplayName": "Range Extraction",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

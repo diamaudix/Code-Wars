@@ -1,0 +1,10 @@
+﻿  CompileTime Max.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9,48): error C2760: syntax error: '...' was unexpected here; expected 'expression'
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9,1): error C2059: syntax error: ','
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(33): message : see reference to variable template 'const auto seq_max_v<int,3,5,6,2,5>' being compiled
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9,1): error C2143: syntax error: missing ')' before ';'
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9,1): error C3376: 'seq_max_v': only static data member templates are allowed
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9): error C2062: type 'unknown-type' unexpected
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(9,1): error C2059: syntax error: ')'
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\CompileTime Max Calculation\CompileTime Max.cpp(33,42): error C2059: syntax error: '<end Parse>'

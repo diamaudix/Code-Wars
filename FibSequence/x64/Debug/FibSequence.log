@@ -1,0 +1,6 @@
+﻿  FibSequence.cpp
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\FibSequence\FibSequence.cpp(16,33): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\FibSequence\FibSequence.cpp(28,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\FibSequence\FibSequence.cpp(41,33): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\FibSequence\FibSequence.cpp(54,32): warning C4018: '<': signed/unsigned mismatch
+  FibSequence.vcxproj -> C:\Users\Evan Fabri\Desktop\C++\Projects\Code Wars\FibSequence\x64\Debug\FibSequence.exe

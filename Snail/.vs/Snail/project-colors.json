@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8d21186-a6af-4686-b300-d20ac103c1b7": {
+      "ProjectGuid": "b8d21186-a6af-4686-b300-d20ac103c1b7",
+      "DisplayName": "Snail",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

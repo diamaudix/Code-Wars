@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc197872-cdb2-42c2-b5c2-866905de4f61": {
+      "ProjectGuid": "bc197872-cdb2-42c2-b5c2-866905de4f61",
+      "DisplayName": "Human Readable Duration Format - 4 kyu",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

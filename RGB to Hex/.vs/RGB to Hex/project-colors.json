@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d14ef6e-41bc-47b4-85ae-4f5102ba65cf": {
+      "ProjectGuid": "9d14ef6e-41bc-47b4-85ae-4f5102ba65cf",
+      "DisplayName": "RGB to Hex",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fad55ce3-aed4-4d29-bf28-fe9122c41a66": {
+      "ProjectGuid": "fad55ce3-aed4-4d29-bf28-fe9122c41a66",
+      "DisplayName": "Very Naive Subarray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
